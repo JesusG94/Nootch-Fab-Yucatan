@@ -1,0 +1,1 @@
+https://electroniccats.github.io/Arduino_Boards_Index/package_electroniccats_index.json
